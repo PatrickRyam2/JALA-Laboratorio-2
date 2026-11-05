@@ -1,1 +1,3 @@
-﻿git status
+Arquivo para praticar o rebase.
+Alteração feita diretamente na master.
+Arquivo para praticar o rebase na branch teste-rebase.
